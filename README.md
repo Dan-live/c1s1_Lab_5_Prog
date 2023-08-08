@@ -17,4 +17,5 @@ output of the result, etc.) should be written as separate functions.
 all situations that may arise for a given algorithm were checked in the task execution algorithm 
 arise for a given algorithm, that is, to demonstrate the full correctness 
 and universality of the algorithm.
+#
 ![image](https://github.com/Dan-live/k1s1_Lab_5_Prog/assets/109356212/f45fc525-c08e-4984-8319-f7e5f95f1257)
