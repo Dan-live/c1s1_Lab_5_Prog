@@ -1,4 +1,4 @@
-# k1s1_Lab_5_Prog
+# c1s1_Lab_5_Prog
 Requirements for the program
 1. In each variant, regardless of its specific task, the structure 
 (array element) must have the following mandatory fields with information about 
